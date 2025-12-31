@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a Data Analyst.<br>I am looking to collaborate on Data Analysis Case Studies, SQL projects, Power Bi Dashboard Development, Data Analysis with Advance Excel.<br>I am looking for help with a freelance project or a Data Analyst Position in a growing workplace.<br>I am currently learning Business Intelligence with A.I.<br>You can ask me for and roadmap and guidelines or teaching about Data Analysis.<br>I like to cook food and I am a Bengali foodie.
+💼 I am currently working as a Data Analyst.<br> 🔭 I am looking to collaborate on Data Analysis Case Studies, SQL projects, Power Bi Dashboard Development, Data Analysis with Advance Excel.<br> 💻 I am looking for help with a freelance project or a Data Analyst Position in a growing workplace.<br> 📚 I am currently learning Business Intelligence with A.I.<br> 🔎 You can ask me for and roadmap and guidelines or teaching about Data Analysis.<br> 💡 I like to cook food and I am a Bengali foodie.
 
 
 ## 🌐 Socials:
